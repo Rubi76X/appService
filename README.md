@@ -5,4 +5,4 @@
 ##### En la práctica se hospedo una página web de un restaurante, la cual se encontraba almacenada en un repositorio de github. La implementación se realizo desde el azure portal.
 
 ### Paso 1: Se creó un recurso de app service
-![](/src/P1.png =150x)
+![](/src/P1.png=150x)
